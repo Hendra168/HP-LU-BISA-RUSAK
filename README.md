@@ -3,7 +3,7 @@
 Tools ini dibuat untuk nemenin
 hari2 kalian yg gabut :v
 ```
-![Sanz](https://github.com/Sxp-ID/UNFAEDAH/blob/main/src/Tools%20UNFAEDAH%20by%20Sanz.png)
+![hendra](https://github.com/Sxp-ID/HENDRA/blob/main/src/Tools%20HP-LU-BISA-RUSAK%20by%20hendra.png)
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 ## How to it?
 ```python
